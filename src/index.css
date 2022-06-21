@@ -7,7 +7,6 @@
 }
 
 body {
-  margin: 0;
   font-family: 'Inter', sans-serif;
 }
 
@@ -25,7 +24,6 @@ h1 {
   position: relative;
   background-color: #207BFF;
   color: #F5F7FA;
-  overflow: hidden;
 }
 
 .app .search {
@@ -40,7 +38,6 @@ h1 {
   border-radius: 25px;
   border: 1px solid #F5F7FA;
   background: #4EA5FF;
-  
 }
 
 ::placeholder {
