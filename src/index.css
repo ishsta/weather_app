@@ -8,6 +8,7 @@
 
 body {
   font-family: 'Inter', sans-serif;
+  background-color: #207BFF;
 }
 
 p {
@@ -22,7 +23,6 @@ h1 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background-color: #207BFF;
   color: #F5F7FA;
 }
 
