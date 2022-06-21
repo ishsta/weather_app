@@ -25,6 +25,7 @@ h1 {
   position: relative;
   background-color: #207BFF;
   color: #F5F7FA;
+  overflow: hidden;
 }
 
 .app .search {
@@ -79,6 +80,7 @@ h1 {
   padding: 1rem;
   border-radius: 12px;
   background-color: #4EA5FF;
+  margin-bottom: 2rem;
 }
 
 .bold {

@@ -30,8 +30,9 @@ const searchLocation = (event) => {
         placeholder='Enter Location'
         type="text" />
       </div>
-      {data.location && data.current != undefined &&
+      {data.location && data.current !== undefined &&
       <div className="container">
+
         <div className="top">
           <div className="location">
             <p>{data.location.name}</p>
@@ -58,6 +59,7 @@ const searchLocation = (event) => {
               <p>Wind</p>
             </div>
           </div>
+
       </div>
       }
     </div>
